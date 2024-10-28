@@ -29,4 +29,4 @@ Technologies Used:
 
 This project delivers an in-depth analysis of Amazon sales data, highlighting key insights into customer behavior, geographic trends, and operational efficiency. Through comprehensive data visualizations and targeted metrics, it provides actionable insights into peak sales periods, customer preferences, and fulfillment performance. These findings can aid in optimizing service quality, customer engagement, and strategic growth. This analysis serves as a foundation for data-driven decision-making in e-commerce. 
 
-This Project is made by Om Sonwane, Akshat Agrawal for DANLC sprint 2 project. ​
+This Project is made by Om Sonwane, Akshat Agrawal & Abhijit Singh Bais for DANLC sprint 2 project. ​
